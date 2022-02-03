@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Kyperware.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: pascall-de-creator@outlook.com.
-- ⚡ Fun fact: I love anime ;).
+- ⚡ Fun fact: I love anime 🙃.
 
 
 <h3 >My Skill Tool Box</h3>
