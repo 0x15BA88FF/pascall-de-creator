@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on My blog Website.
 - 🌱 I’m currently learning Express js.
-- 👯 I’m looking to collaborate on Kyperware.
+- 👯 I’m looking to collaborate on my setifi third party package 📦.
+- 👉👈 Open to help in any of your projects
 - 💬 Ask me about Anything.
 - 📫 How to reach me: pascall-de-creator@outlook.com.
 - ⚡ Fun fact: I love anime 🙃.
