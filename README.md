@@ -25,6 +25,10 @@
   <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
+  <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
+  <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+  <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
   
   
 </div>
