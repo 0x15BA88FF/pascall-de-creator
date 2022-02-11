@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am pascal Nkornyui 👨‍💻</h1>
+<h1 align="center">Hi there 👋, I am Pascal Nkornyui 👨‍💻</h1>
 <h2 align="center">About me </h2>
 
 - 🔭 I’m currently working on My blog Website.
