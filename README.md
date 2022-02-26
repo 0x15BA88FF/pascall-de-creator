@@ -2,7 +2,7 @@
 <h2 align="center">About me </h2>
 
 - 🔭 I’m currently working on My blog Website.
-- 🌱 I’m currently learning Express js.
+- 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on my setifi third party package 📦.
 - 👉👈 Open to help in any of your projects
 - 💬 Ask me about Anything.
