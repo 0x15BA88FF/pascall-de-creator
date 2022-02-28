@@ -15,8 +15,8 @@
 </div>
 
 <div align="center" style="display: flex; align-items: center">
-<img width=52% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry" alt="stats"/>
-<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry" alt="top langs"/>
+<img width=54% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry" alt="stats"/>
+<img width=46% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry" alt="top langs"/>
 </div>
 
 <img width=100% src="https://activity-graph.herokuapp.com/graph?username=pascall-de-creator&theme=react-dark&hide_border=true&area=true" alt="colaborations" />
