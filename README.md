@@ -11,7 +11,7 @@
 
 [![pascall's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry)](https://github.com/pascall-de-creator/pascall-de-creator)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry)](https://github.com/pascall-de-creator/pascall-de-creator)
-[![working on Card](https://github-readme-stats.vercel.app/api/pin/?username=pascall-de-creato&repo=pascall-creator&theme=blueberry)](https://https://github.com/pascall-de-creator/pascall-creator)
+[![working on Card](https://github-readme-stats.vercel.app/api/pin/?username=pascall-de-creator&repo=pascall-creator)](https://https://github.com/pascall-de-creator/pascall-creator)
 
 <h3 >My Skill Tool Box</h3>
 <div style="display: flex; width: 90%">
