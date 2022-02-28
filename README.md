@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Pascal Nkornyui 👨‍💻</h1>
+<!-- <h1 align="center">Hi there 👋, I am Pascal Nkornyui 👨‍💻</h1>
 <h2 align="center">About me </h2>
 
 - 🔭 I’m currently working on My blog Website.
@@ -7,7 +7,8 @@
 - 👉👈 Open to help in any of your projects
 - 💬 Ask me about Anything.
 - 📫 How to reach me: pascall-de-creator@outlook.com.
-- ⚡ Fun fact: I love anime 🙃.
+- ⚡ Fun fact: I love anime 🙃. -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&type=waving" />
 
 [![pascall's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry)](https://github.com/pascall-de-creator/pascall-de-creator)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry)](https://github.com/pascall-de-creator/pascall-de-creator)
