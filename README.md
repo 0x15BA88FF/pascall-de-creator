@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I love anime 🙃.
 
 [![pascall's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=radical)](https://github.com/pascall-de-creator/pascall-de-creator)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact)](https://github.com/pascall-de-creator/pascall-de-creator)
+[![Pascall's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pascall-de-creator)](https://github.com/pascall-de-creator/pascall-de-creator)
 
 <h3 >My Skill Tool Box</h3>
 <div style="display: flex; width: 90%">
