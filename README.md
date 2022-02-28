@@ -14,13 +14,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=&color=%2315BB8A&size=35&duration=8000&center=true&vCenter=true&lines=I'm+Pascal+Nkornyui"/>
 </div>
 
-<div align="center" style="display: flex; align-items: center">
-<img width=54% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry" alt="stats"/>
-<img width=46% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry" alt="top langs"/>
+<div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
+<img width=53% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry" alt="stats"/>
+<img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry" alt="top langs"/>
 </div>
-
-<img width=100% src="https://activity-graph.herokuapp.com/graph?username=pascall-de-creator&theme=react-dark&hide_border=true&area=true" alt="colaborations" />
-
+<div align="center" style="display: flex; align-items: center, justify-content: space-between;">
+<img width=98% src="https://activity-graph.herokuapp.com/graph?username=pascall-de-creator&theme=react-dark&hide_border=true&area=true" alt="colaborations" />
+</div>
 <h3 align=center>My Skill Tool Box</h3>
 <div align=center style="display: flex; width: 90%">
   <img style="margin: 1000px 10px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
