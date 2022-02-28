@@ -8,14 +8,21 @@
 - 💬 Ask me about Anything.
 - 📫 How to reach me: pascall-de-creator@outlook.com.
 - ⚡ Fun fact: I love anime 🙃. -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&type=waving" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9ba9ff,100:eccaff&height=300&section=header&text=Pascall De Creator&fontSize=90&animation=fadeIn"/>
 
-[![pascall's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry)](https://github.com/pascall-de-creator/pascall-de-creator)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry)](https://github.com/pascall-de-creator/pascall-de-creator)
-[![working on Card](https://github-readme-stats.vercel.app/api/pin/?username=pascall-de-creator&repo=pascall-creator&theme=blueberry)](https://https://github.com/pascall-de-creator/pascall-creator)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=&color=%2315BB8A&size=35&duration=8000&center=true&vCenter=true&lines=I'm+Pascal+Nkornyui"/>
+</div>
 
-<h3 >My Skill Tool Box</h3>
-<div style="display: flex; width: 90%">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry" alt="stats"/>
+</div>
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&theme=blueberry" alt="top langs"/>
+
+<img width=100% src="https://activity-graph.herokuapp.com/graph?username=pascall-de-creator&theme=react-dark&hide_border=true&area=true" alt="colaborations" />
+
+<h3 align=center>My Skill Tool Box</h3>
+<div align=center style="display: flex; width: 90%">
   <img style="margin: 1000px 10px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img style="margin: 10px 10px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img style="margin: 10px 10px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,12 +40,12 @@
   <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg">
   <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
-  
-  
 </div>
 
-<h3>Let's Connect:</h3>
-<div style="display: flex; width: 90%">
+<h3 align=center>Let's Connect:</h3>
+<div align=center style="display: flex; width: 90%">
   <a href="https://www.linkedin.com/in/pascall-de-creator-150b73215/"><img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
    <a href="https://twitter.com/Pascall_creator"><img style="margin: 10px 10px" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9ba9ff,100:eccaff&height=100&section=footer&text=&fontSize=90" />
