@@ -42,6 +42,9 @@
   <img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
 </div>
 
+> You cant DEBUG if you dont ave bugs
+> > -Pascall de creator
+
 <h3 align=center>Let's Connect:</h3>
 <div align=center style="display: flex; width: 90%">
   <a href="https://www.linkedin.com/in/pascall-de-creator-150b73215/"><img style="margin: 10px 10px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
