@@ -50,7 +50,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9ba9ff,100:eccaff&height=100&section=footer&text=&fontSize=90" />
 
+![](https://komarev.com/ghpvc/?username=pascall-de-creator)
 
-> You cant DEBUG if you dont ave bugs
+> You cant DEBUG if you dont any bugs
 > > -Pascall de creator
 
