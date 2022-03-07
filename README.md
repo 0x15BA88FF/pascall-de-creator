@@ -13,9 +13,9 @@
 </div>
 
 <!-- colad Chart -->
-<div align="center" style="display: flex; align-items: center, justify-content: space-between;">
+<!-- <div align="center" style="display: flex; align-items: center, justify-content: space-between;">
   <img width=98% src="https://activity-graph.herokuapp.com/graph?username=pascall-de-creator&theme=react-dark&hide_border=true&area=true" alt="colaborations" />
-</div>
+</div> -->
 
 <!-- streak Chart -->
 <div align="center" style="display: flex; align-items: center, justify-content: space-between;">
