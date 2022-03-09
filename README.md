@@ -18,9 +18,9 @@
 </div> -->
 
 <!-- streak Chart -->
-<div align="center" style="display: flex; align-items: center, justify-content: space-between;">
+<!-- <div align="center" style="display: flex; align-items: center, justify-content: space-between;">
   <img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=pascall-de-creator&theme=react-dark" alt="colaborations" />
-</div>
+</div> -->
 
 <!-- Languages badges -->
 <h3 align=center>Languages I use</h3>
