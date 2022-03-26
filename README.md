@@ -1,11 +1,6 @@
 <!--Wave Banner -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9ba9ff,100:eccaff&height=150&section=header&text=Pascall De Creator&fontSize=90&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&color=%2315BB8A&size=35&duration=8000&center=true&vCenter=true&lines=I'm+Pascal+Nkornyui"/>
-</div>
-
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
   <img width=53% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&theme=blueberry" alt="stats"/>
