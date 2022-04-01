@@ -1,5 +1,5 @@
 <!--Wave Banner -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9ba9ff,100:eccaff&height=150&section=header&text=&fontSize=90&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9ba9ff,100:eccaff&height=90&section=header&text=&fontSize=90&animation=fadeIn"/>
 
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
