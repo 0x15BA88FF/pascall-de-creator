@@ -15,7 +15,7 @@
 </div>
 <!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
-<div align=center style="display: flex; width: 90%">
+<div align=center style="display: flex; width: 100%">
 	<a href="https://www.linkedin.com/in/pascall-de-creator-150b73215/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   	</a>
