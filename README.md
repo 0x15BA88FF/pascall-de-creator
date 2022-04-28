@@ -6,12 +6,34 @@
 <!-- Languages badges -->
 <h3 align=center>Languages I use</h3>
 <div align=center style="display: flex; width: 90%">
-  	<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,sass,dart,pug,python" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=js" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=ts" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=c" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=cpp" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=html" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=css" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=dart" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=pug" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=python" height="31px" />
 </div>
 <!-- Frameworks badges -->
 <h3 align=center>Other stuff I use</h3>
 <div align=center style="display: flex; width: 90%">
- 	<img src="https://skillicons.dev/icons?i=bootstrap,django,dotnet,express,firebase,flutter,materialui,mongodb,nextjs,nodejs,react,redux,tailwind,qt" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=django" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=dotnet" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=express" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=firebase" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=flutter" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=materialui" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=mongodb" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=nextjs" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=react" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=redux" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=tailwind" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=qt" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=nodejs" height="31px" />
 </div>
 <!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
