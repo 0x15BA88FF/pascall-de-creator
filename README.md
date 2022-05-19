@@ -46,16 +46,6 @@
 	</a>
 </div>
 <hr/>
-<details>
-	<summary>Top Projects</summary>
-	<div align=center style="display: flex; width: 90%">
-		<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=pascall-de-creator&repo=visual-json&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" />
-		<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=pascall-de-creator&repo=react&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" />
-		<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=pascall-de-creator&repo=setifi&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" />
-		<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=pascall-de-creator&repo=pascall-creator&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" />
-	</div>
-</details>
-<hr/>
 <div align="center" style="width: 90%; display: flex; align-items-center; justify-content: space-between" >
 	<img src="https://komarev.com/ghpvc/?username=pascall-de-creator">
 	<a href="https://github.com/pascall-de-creator/About-Pascall"></a>
