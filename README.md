@@ -44,7 +44,7 @@
   	<img src="https://skillicons.dev/icons?i=vim" height="31px" />
   	<img src="https://skillicons.dev/icons?i=unreal" height="31px" />
   	<img src="https://skillicons.dev/icons?i=unity" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=goot" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=godot" height="31px" />
   	<img src="https://skillicons.dev/icons?i=tauri" height="31px" />
   	<img src="https://skillicons.dev/icons?i=svelte" height="31px" />
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
