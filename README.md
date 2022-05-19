@@ -10,12 +10,17 @@
   	<img src="https://skillicons.dev/icons?i=ts" height="31px" />
   	<img src="https://skillicons.dev/icons?i=c" height="31px" />
   	<img src="https://skillicons.dev/icons?i=cpp" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=cs" height="31px" />
   	<img src="https://skillicons.dev/icons?i=html" height="31px" />
   	<img src="https://skillicons.dev/icons?i=css" height="31px" />
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
   	<img src="https://skillicons.dev/icons?i=dart" height="31px" />
   	<img src="https://skillicons.dev/icons?i=pug" height="31px" />
   	<img src="https://skillicons.dev/icons?i=python" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=ruby" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=php" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=go" height="31px" />
 </div>
 <!-- Frameworks badges -->
 <h3 align=center>Other stuff I use</h3>
@@ -34,6 +39,25 @@
   	<img src="https://skillicons.dev/icons?i=tailwind" height="31px" />
   	<img src="https://skillicons.dev/icons?i=qt" height="31px" />
   	<img src="https://skillicons.dev/icons?i=nodejs" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=wasm" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=vue" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=vim" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=unreal" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=unity" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=goot" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=tauri" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=svelte" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=rails" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=pug" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=redis" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=prisma" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=graphql" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=nuxtjs" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=mysql" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=linux" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=kubernetes" height="31px" />
 </div>
 <!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
