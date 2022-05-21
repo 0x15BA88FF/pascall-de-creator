@@ -15,7 +15,6 @@
   	<img src="https://skillicons.dev/icons?i=css" height="31px" />
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
   	<img src="https://skillicons.dev/icons?i=dart" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=pug" height="31px" />
   	<img src="https://skillicons.dev/icons?i=python" height="31px" />
   	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
   	<img src="https://skillicons.dev/icons?i=ruby" height="31px" />
@@ -27,7 +26,6 @@
 <div align=center style="display: flex; width: 90%">
   	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
   	<img src="https://skillicons.dev/icons?i=django" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=dotnet" height="31px" />
   	<img src="https://skillicons.dev/icons?i=express" height="31px" />
   	<img src="https://skillicons.dev/icons?i=firebase" height="31px" />
   	<img src="https://skillicons.dev/icons?i=flutter" height="31px" />
@@ -42,10 +40,6 @@
   	<img src="https://skillicons.dev/icons?i=wasm" height="31px" />
   	<img src="https://skillicons.dev/icons?i=vue" height="31px" />
   	<img src="https://skillicons.dev/icons?i=vim" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=unreal" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=unity" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=godot" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=tauri" height="31px" />
   	<img src="https://skillicons.dev/icons?i=svelte" height="31px" />
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
   	<img src="https://skillicons.dev/icons?i=rails" height="31px" />
@@ -56,8 +50,6 @@
   	<img src="https://skillicons.dev/icons?i=nuxtjs" height="31px" />
   	<img src="https://skillicons.dev/icons?i=mysql" height="31px" />
   	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=linux" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=kubernetes" height="31px" />
 </div>
 <!-- connect badges -->
 <h3 align=center>Let's Connect:</h3>
