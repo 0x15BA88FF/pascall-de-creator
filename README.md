@@ -49,7 +49,6 @@
   	<img src="https://skillicons.dev/icons?i=nodejs" height="31px" />
   	<img src="https://skillicons.dev/icons?i=pug" height="31px" />
   	<img src="https://skillicons.dev/icons?i=wasm" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=qt" height="31px" />
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=mongodb" height="31px" />
   	<img src="https://skillicons.dev/icons?i=redis" height="31px" />
