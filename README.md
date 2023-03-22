@@ -10,7 +10,7 @@
   	<img src="https://skillicons.dev/icons?i=ts" height="31px" />
 <!--   	<img src="https://skillicons.dev/icons?i=c" height="31px" /> -->
   	<img src="https://skillicons.dev/icons?i=cpp" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=cs" height="31px" />
+<!--   	<img src="https://skillicons.dev/icons?i=cs" height="31px" /> -->
   	<img src="https://skillicons.dev/icons?i=html" height="31px" />
   	<img src="https://skillicons.dev/icons?i=css" height="31px" />
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
@@ -31,8 +31,8 @@
   	<img src="https://skillicons.dev/icons?i=svelte" height="31px" />
   	<img src="https://skillicons.dev/icons?i=redux" height="31px" />
 	<!-- 	 -->
-  	<img src="https://skillicons.dev/icons?i=laravel" height="31px" />
-  	<img src="https://skillicons.dev/icons?i=rails" height="31px" />
+<!--   	<img src="https://skillicons.dev/icons?i=laravel" height="31px" /> -->
+<!--   	<img src="https://skillicons.dev/icons?i=rails" height="31px" /> -->
 	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
   	<img src="https://skillicons.dev/icons?i=materialui" height="31px" />
