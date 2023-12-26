@@ -1,6 +1,6 @@
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
-	<img width=53% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
+	<!-- <img width=53% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/> -->
   	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
 </div>
 <!-- Languages badges -->
