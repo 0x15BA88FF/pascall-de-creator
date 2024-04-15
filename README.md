@@ -1,25 +1,22 @@
 <!-- stats and languages Chart -->
 <div align="center" width="100%" style="display: flex; align-items: center, justify-content: space-between;">
-	<!-- <img width=53% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/> -->
-  	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=compact&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
+	<img width=53% src="https://github-readme-stats.vercel.app/api?username=pascall-de-creator&show_icons=true&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="stats"/>
+  	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascall-de-creator&layout=donut&bg_color=09131b&title_color=15bb8a&text_color=fff&icon_color=15bb8a&hide_border=true&border_radius=6" alt="top langs"/>
 </div>
 <!-- Languages badges -->
 <h3 align=center>Languages I use</h3>
 <div align=center style="display: flex; width: 90%">
   	<img src="https://skillicons.dev/icons?i=js" height="31px" />
   	<img src="https://skillicons.dev/icons?i=ts" height="31px" />
-<!--   	<img src="https://skillicons.dev/icons?i=c" height="31px" /> -->
+  	<img src="https://skillicons.dev/icons?i=c" height="31px" />
   	<img src="https://skillicons.dev/icons?i=cpp" height="31px" />
-<!--   	<img src="https://skillicons.dev/icons?i=cs" height="31px" /> -->
+  	<img src="https://skillicons.dev/icons?i=cs" height="31px" />
   	<img src="https://skillicons.dev/icons?i=html" height="31px" />
   	<img src="https://skillicons.dev/icons?i=css" height="31px" />
   	<img src="https://skillicons.dev/icons?i=sass" height="31px" />
-<!--   	<img src="https://skillicons.dev/icons?i=dart" height="31px" /> -->
   	<img src="https://skillicons.dev/icons?i=python" height="31px" />
-<!--   	<img src="https://skillicons.dev/icons?i=rust" height="31px" /> -->
-<!--   	<img src="https://skillicons.dev/icons?i=ruby" height="31px" /> -->
-<!--   	<img src="https://skillicons.dev/icons?i=php" height="31px" /> -->
-<!--   	<img src="https://skillicons.dev/icons?i=go" height="31px" /> -->
+  	<img src="https://skillicons.dev/icons?i=rust" height="31px" />
+  	<img src="https://skillicons.dev/icons?i=go" height="31px" />
 </div>
 <!-- Frameworks badges -->
 <h3 align=center>Other stuff I use</h3>
@@ -30,10 +27,6 @@
   	<img src="https://skillicons.dev/icons?i=nuxtjs" height="31px" />
   	<img src="https://skillicons.dev/icons?i=svelte" height="31px" />
   	<img src="https://skillicons.dev/icons?i=redux" height="31px" />
-	<!-- 	 -->
-<!--   	<img src="https://skillicons.dev/icons?i=laravel" height="31px" /> -->
-<!--   	<img src="https://skillicons.dev/icons?i=rails" height="31px" /> -->
-	<!-- 	 -->
   	<img src="https://skillicons.dev/icons?i=bootstrap" height="31px" />
   	<img src="https://skillicons.dev/icons?i=materialui" height="31px" />
   	<img src="https://skillicons.dev/icons?i=tailwind" height="31px" />
